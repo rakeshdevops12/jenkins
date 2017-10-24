@@ -21,17 +21,17 @@
 <repositories>
 <repository>
 <id>group</id>
-<url>http://192.168.0.118:8080/nexus-2.14.4-03/content/groups/group/</url>
+<url>http://192.168.0.72:8080/nexus-2.14.4-03/content/groups/group/</url>
 </repository>
 </repositories>
 <distributionManagement>
 <snapshotRepository>
 <id>snap</id>
-<url>http://192.168.0.118:8080/nexus-2.14.4-03/content/repositories/snap/</url>
+<url>http://192.168.0.72:8080/nexus-2.14.4-03/content/repositories/snap/</url>
 </snapshotRepository>
 <repository>
 <id>rel</id>
-<url>http://192.168.0.118:8080/nexus-2.14.4-03/content/repositories/rel/</url>
+<url>http://192.168.0.72:8080/nexus-2.14.4-03/content/repositories/rel/</url>
 </repository>
 </distributionManagement>
 
